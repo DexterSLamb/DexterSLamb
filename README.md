@@ -25,6 +25,7 @@
 | 项目 | 说明 |
 |------|------|
 | [openclaw-tianjun](https://github.com/DexterSLamb/openclaw-tianjun) | OpenClaw 边缘优化分支。NPU 推理。TTFT 提升约10倍 |
+| [tianjun-novel](https://github.com/DexterSLamb/tianjun-novel) | 《天钧》— 被写好的，不代表不是真的 |
 
 ## 技术栈
 
@@ -73,6 +74,7 @@ The critical wall didn't disappear. But I broke through it.
 | Project | Description |
 |---------|-------------|
 | [openclaw-tianjun](https://github.com/DexterSLamb/openclaw-tianjun) | OpenClaw edge-optimised fork. NPU inference. ~10x TTFT improvement |
+| [tianjun-novel](https://github.com/DexterSLamb/tianjun-novel) | *Tianjun* — What is written doesn't mean it isn't real |
 
 ## Tech Stack
 
