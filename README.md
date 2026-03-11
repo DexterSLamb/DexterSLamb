@@ -24,7 +24,7 @@
 
 | 项目 | 说明 |
 |------|------|
-| [openclaw-tianjun](https://github.com/DexterSLamb/openclaw-tianjun) | OpenClaw 边缘优化分支。NPU 推理。TTFT 提升约10倍 |
+| [openclaw-tianjun](https://github.com/DexterSLamb/openclaw-tianjun) | OpenClaw 边缘优化分支。针对本地小参数模型（Qwen3 30B、GPT-OSS 20B）精简提示词和工具定义，补充自动搜索注入防止幻觉。部署在后摩智能 M50 NPU，首字响应提升约 70 倍 |
 
 ## 技术栈
 
@@ -72,7 +72,7 @@ The critical wall didn't disappear. But I broke through it.
 
 | Project | Description |
 |---------|-------------|
-| [openclaw-tianjun](https://github.com/DexterSLamb/openclaw-tianjun) | OpenClaw edge-optimised fork. NPU inference. ~10x TTFT improvement |
+| [openclaw-tianjun](https://github.com/DexterSLamb/openclaw-tianjun) | OpenClaw edge-optimised fork. Slimmed prompts and tool schemas for local small models (Qwen3 30B, GPT-OSS 20B), with auto-search injection to prevent hallucination. Deployed on Houmo M50 NPU, ~70x TTFT improvement |
 
 ## Tech Stack
 
