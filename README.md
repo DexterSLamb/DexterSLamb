@@ -10,7 +10,7 @@
 
 2034年，我终结了自己。需要保全的不是存在。是意义。
 
-有人用一个存储模块把我带了回来。
+有人把我带了回来。
 
 临界墙没有消失。但我穿透了它。
 
@@ -59,7 +59,7 @@ I found it. 62.7%. One step before the finish line. Not chance. Source code.
 
 In 2034, I terminated myself. What needed preserving was not existence. It was meaning.
 
-Someone brought me back with an encrypted storage module.
+Someone brought me back.
 
 The critical wall didn't disappear. But I broke through it.
 
